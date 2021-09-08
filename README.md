@@ -1,2 +1,2 @@
 # hello-world
-Refresher project for Git. Lamp, spaeker, glasses, and paper
+Refresher project for Git. Lamp, speaker, glasses, and paper
